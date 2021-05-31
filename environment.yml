@@ -1,0 +1,10 @@
+name: exemplo
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - notebook
+  - rise
+  - gcc_linux-64
+  - jupyter_c_kernel
