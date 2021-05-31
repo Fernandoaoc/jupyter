@@ -7,4 +7,3 @@ dependencies:
   - notebook
   - rise
   - gcc_linux-64
-  - jupyter_c_kernel
